@@ -1,0 +1,1 @@
+/home/guto/Programming/rust/binary-tree/target/debug/binary-tree: /home/guto/Programming/rust/binary-tree/src/classes/mod.rs /home/guto/Programming/rust/binary-tree/src/classes/tree.rs /home/guto/Programming/rust/binary-tree/src/main.rs
