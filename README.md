@@ -3,7 +3,7 @@
   <img alt="GitHub Forks" src="https://img.shields.io/github/forks/lanjoni/rust-data-structure?style=for-the-badge">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/lanjoni/rust-data-structure?style=for-the-badge">
   <img alt="GitHub Issues" src="https://img.shields.io/github/issues/lanjoni/rust-data-structure?style=for-the-badge">
-  <img alt="GitHub Issues-pr" src="https://img.shields.io/github/issues-pr/lanjoni/rust-data-structure?style=for-the-badge">
+  <!-- <img alt="GitHub Issues-pr" src="https://img.shields.io/github/issues-pr/lanjoni/rust-data-structure?style=for-the-badge"> -->
   <img alt="GitHub License" src="https://img.shields.io/github/license/lanjoni/rust-data-structure?style=for-the-badge">
 </div>
 
