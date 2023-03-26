@@ -9,7 +9,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/lanjoni/rust-data-structure">
     <img src="resources/images/logo.png" alt="Logo" width="280">
   </a>
 
