@@ -9,7 +9,7 @@ pub struct Tree {
 impl Tree {
     pub fn new(value: i32) -> Self {
         Tree {
-            value: value,
+            value,
             left: None,
             right: None
         }
