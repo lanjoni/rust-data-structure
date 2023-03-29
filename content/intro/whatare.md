@@ -26,7 +26,7 @@ For recommendation of books to be studied about data structures I recommend [thi
 
 ---
 
-Let's see a little about some types of data?
+Let's see a little about some types of data structures?
 
 <p align="right">
   <a href="https://github.com/lanjoni/rust-data-structure/blob/main/content/intro/typesofdata.md">Next -> Types of data structures</a>
