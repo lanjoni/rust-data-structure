@@ -39,7 +39,7 @@ All code developed will serve as a basis for your codes, exemplifying the applic
 
 - [Introduction](https://github.com/lanjoni/rust-data-structure/tree/main/content/intro)
   - [What are data structures?](https://github.com/lanjoni/rust-data-structure/tree/main/content/intro/whatare.md)
-  - [Types of structures](https://github.com/lanjoni/rust-data-structure/tree/main/content/intro/typesofdata.md)
+  - [Types of data structures](https://github.com/lanjoni/rust-data-structure/tree/main/content/intro/typesofdata.md)
 - [Linear data structures](https://github.com/lanjoni/rust-data-structure/tree/main/content/linear)
   - [Array](https://github.com/lanjoni/rust-data-structure/tree/main/content/linear/array)
   - [Stack](https://github.com/lanjoni/rust-data-structure/tree/main/content/linear/stack)
