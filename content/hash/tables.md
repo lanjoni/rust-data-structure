@@ -28,3 +28,15 @@ fn main() {
     println!("{}", sum);
 }
 ```
+
+---
+
+Enjoyed learning about Hash Maps and Hash Tables? Let's find out now what graphs are?
+
+<p align="right">
+  <a href="https://github.com/lanjoni/rust-data-structure/blob/main/content/graph">Next -> Graph data structures</a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/lanjoni/rust-data-structure#roadmap">Back to main menu</a>
+</p>
