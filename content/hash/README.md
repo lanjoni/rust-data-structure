@@ -2,7 +2,7 @@
 
 ---
 
-Are you ready to study a little about Hash Maps?
+Are you ready to find out how Hash Maps works?
 
 <p align="right">
   <a href="https://github.com/lanjoni/rust-data-structure/blob/main/content/hash/maps.md">Next -> Hash Maps</a>
