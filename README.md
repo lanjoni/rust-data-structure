@@ -78,3 +78,6 @@ Distributed under the GNU GPL 3.0 License. See `LICENSE` for more information.
 
 * [lanjoni](https://github.com/lanjoni) -
   **João Lanjoni** <<guto@lanjoni.dev>> (he/him)
+
+* [J0sueTM](https://github.com/J0sueTM) -
+  **Josué Moreira** <<teodoro.josue@protonmail.ch>> (he/him)
