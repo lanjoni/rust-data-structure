@@ -81,3 +81,12 @@ Distributed under the GNU GPL 3.0 License. See `LICENSE` for more information.
 
 * [J0sueTM](https://github.com/J0sueTM) -
   **Josué Moreira** <<teodoro.josue@protonmail.ch>> (he/him)
+  
+* [gbiz0](https://github.com/gbiz0) -
+  **Gustavo Jardim** <<gustavobizo@protonmail.com>> (he/him)
+  
+* [grigolin](https://github.com/grigolin) -
+  **Guilherme Grigolin** <<guigrigolin@gmail.com>> (he/him)
+
+* [Ujs74wiop6](https://github.com/Ujs74wiop6) -
+  **Fabricio Arantes** <<fabricioujs74@gmail.com>> (he/him)
