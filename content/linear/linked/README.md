@@ -1,3 +1,3 @@
 # Linked lists
 
-With linked lists, the items are not stored in the memory contiguously. Comparing to arrays, linked lists are good at insertion and deletion, but are slower than arrays at reading due to the sequencial access, in which each item stores the address of the next one, making it slower to access the last item of a linked list, for example.Arrays are faster at reading because they use random access.
+With linked lists, the items are not stored in the memory contiguously. Comparing to arrays, linked lists are good at insertion and deletion, but are slower than arrays at reading due to the sequencial access, in which each item stores the address of the next one, making it slower to access the last item of a linked list, for example. Arrays are faster at reading because they use random access.
