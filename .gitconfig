@@ -1,2 +1,9 @@
-*target/*
-*.rustc_info.json
+# Ignore Cargo files
+Cargo.lock
+Cargo.toml
+Cargo.toml.orig
+Cargo.toml.bkp
+
+# Ignore target directories
+target/
+**/target/
