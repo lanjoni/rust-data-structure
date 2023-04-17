@@ -5,5 +5,7 @@ Cargo.toml.orig
 Cargo.toml.bkp
 
 # Ignore target directories
-target/
-**/target/
+*target/*
+
+# Ignore rustc_info
+*.rustc_info.json
