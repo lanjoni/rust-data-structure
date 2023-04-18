@@ -1,5 +1,7 @@
 # Hash
 
+
+
 ---
 
 Are you ready to find out how Hash Maps works?
